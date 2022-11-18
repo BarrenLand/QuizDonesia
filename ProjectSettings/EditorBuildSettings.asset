@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2d7d4ec9240fb08438cad9cc3fff73c7
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: b787b203fce049b47ba729d2f036b5d6
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 034557354c68c6340823d960805bf772
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c00a98f5e3149ca4fbddbb14a8cb7eb2
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 75fa4c64c7f0bda4b81256f284993ea2
+  - enabled: 1
+    path: Assets/Scenes/Quiz/ACEH.unity
+    guid: 2321b08e319fe8f4d89eefd273ea949a
+  - enabled: 1
+    path: Assets/Scenes/Quiz/BABEL.unity
+    guid: ab6c70c4ca9ef7241911486e25cc482a
+  - enabled: 1
+    path: Assets/Scenes/Quiz/BALI.unity
+    guid: 345dc038e657acb49b8d52593add6324
+  - enabled: 1
+    path: Assets/Scenes/Quiz/BANTEN.unity
+    guid: fba7b11a66469db41b37b84daabe92f2
+  - enabled: 1
+    path: Assets/Scenes/Quiz/BENGKULU.unity
+    guid: 0065b62fef6c82c46a46796ac5b9243d
+  - enabled: 1
+    path: Assets/Scenes/Quiz/DIY.unity
+    guid: 327ab45b1eaa95646b9040e95bf09e4e
+  - enabled: 1
+    path: Assets/Scenes/Quiz/GORONTALO.unity
+    guid: 8be5ad0164a2d3340a6184e358415cb1
+  - enabled: 1
+    path: Assets/Scenes/Quiz/JABAR.unity
+    guid: 5495f2c7587186c48815502456dc0e22
+  - enabled: 1
+    path: Assets/Scenes/Quiz/JAKARTA.unity
+    guid: 33d9792fd7a6243459b421141fcaa1f9
+  - enabled: 1
+    path: Assets/Scenes/Quiz/JAMBI.unity
+    guid: e30acc873a8daff45a53193dec129517
+  - enabled: 1
+    path: Assets/Scenes/Quiz/JATENG.unity
+    guid: e387afe8cfa88d5479aa00257ae95589
+  - enabled: 1
+    path: Assets/Scenes/Quiz/JATIM.unity
+    guid: 74d7af371d5865c49866da7d2305a7a5
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KALBAR.unity
+    guid: 0f31a342960d23742b7ec4aa2622eb96
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KALSEL.unity
+    guid: d476aca58505eee40ae75ec886be3319
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KALTARA.unity
+    guid: 68394e945b6082d4f97980ed92b818a1
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KALTENG.unity
+    guid: cb69ab4b1e7a04043aade0b5ad46b217
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KALTIM.unity
+    guid: a8330130d5ef6ab45b301cb625b85ead
+  - enabled: 1
+    path: Assets/Scenes/Quiz/KEPRI.unity
+    guid: 59693ad098726274e8c24f95a3d72a10
+  - enabled: 1
+    path: Assets/Scenes/Quiz/LAMPUNG.unity
+    guid: 1271c521cc9adf74cb5b2e7f245b6ad5
+  - enabled: 1
+    path: Assets/Scenes/Quiz/MALUKU.unity
+    guid: 5267288deb77ca54aafdaf68e069e3f3
+  - enabled: 1
+    path: Assets/Scenes/Quiz/MALUT.unity
+    guid: 7b4dd471b8d7d904fa909027133863bf
+  - enabled: 1
+    path: Assets/Scenes/Quiz/NTB.unity
+    guid: 2d0fff694f2f7e14c9ffe483f7b1deaa
+  - enabled: 1
+    path: Assets/Scenes/Quiz/NTT.unity
+    guid: 0250d1aea30b7f34b9b554e7c3c953a0
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PABAR.unity
+    guid: b78e6aa927df33543a09e9549707b2af
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PAPEG.unity
+    guid: 34f94ca4ac977444d80a5e5a7d0affa0
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PAPUA.unity
+    guid: 305a8d61a51f5f34fa78f3276280084a
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PASEL.unity
+    guid: 75fac257fca51e04aa37510203b4ae27
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PATENG.unity
+    guid: 45a6b99d9ed72d24c9c027f330845e93
+  - enabled: 1
+    path: Assets/Scenes/Quiz/PBD.unity
+    guid: d2c6dd5953c67414eb44ae87ad7e7ed9
+  - enabled: 1
+    path: Assets/Scenes/Quiz/RIAU.unity
+    guid: df150b915e6330b4a8ae0c118a95f31e
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SULBAR.unity
+    guid: 588cbdc5689daff4e97341ab8569ab9c
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SULSEL.unity
+    guid: b1b828fa16437f34d8895ce44e040113
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SULTENG.unity
+    guid: 78218d9c63187df4ea7f264cf000f49e
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SULTRA.unity
+    guid: 21d6bfd7f76554247868c487a794ad6d
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SULUT.unity
+    guid: 1726985ffc27e424880366eb26c8fb92
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SUMBAR.unity
+    guid: d64fdfd9f2799b74e93bfb0cfba99fa8
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SUMSEL.unity
+    guid: 81f3970a64314464ab4583de3f4aab00
+  - enabled: 1
+    path: Assets/Scenes/Quiz/SUMUT.unity
+    guid: 7b7798ff9cb20bc49a0a6cd02a08b199
+  m_configObjects: {}
